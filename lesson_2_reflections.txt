@@ -17,3 +17,6 @@ Each git repository is tied to a specific directory - the directory where you ra
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 >> Merging two branches together makes one branch have changes from both branches. This is useful when multiple people work on different branches and both changes are needed in the final version. 
 
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging is very good for files with no conflict. If we have to do it manually and if there are many files, it would be too cumbersome and error prone. 
+
