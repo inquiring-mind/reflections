@@ -7,3 +7,10 @@ Each git repository is tied to a specific directory - the directory where you ra
 
 Staging area stories files that have not been committed yet. This gives an opportunity to logically group related files to be commited while working on other files in the working directory. 
 
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+We can add files to the staging area using 'git add' once a logical change is done. This ensures that you can keep modifying other files. 
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
+
+Branches would be very useful in case there are multiple features going on or if someone wants to try something very new and not affect the current codebase. 
