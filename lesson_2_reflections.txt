@@ -1,0 +1,9 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository it creates a .git folder. 
+Each git repository is tied to a specific directory - the directory where you ran 'git init' command. Only the files from this directory and its subdirectories will be in the git repository. 
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area stories files that have not been committed yet. This gives an opportunity to logically group related files to be commited while working on other files in the working directory. 
+
