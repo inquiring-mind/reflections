@@ -14,3 +14,6 @@ Each git repository is tied to a specific directory - the directory where you ra
 5. How do the diagrams help you visualize the branch structure?
 >> Since there could be multiple branches, the diagrams help visualize where the branching occured and how many files got checked in after the fork. 
 
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+>> Merging two branches together makes one branch have changes from both branches. This is useful when multiple people work on different branches and both changes are needed in the final version. 
+
