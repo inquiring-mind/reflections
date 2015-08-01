@@ -12,3 +12,6 @@ fork is a duplicate of a repository in github in the user's domain. clone is a c
 4. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It would be difficult to collaborate without git or github. Developers may have to use a different tool or do it manually through IDE by sitting next to each other. Github makes it easy to collaborate for teams that are geographicall apart. 
 
+5. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When we're doing a feature or a project that should not impact master before review a separate branch is a must have. 
